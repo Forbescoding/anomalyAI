@@ -12,9 +12,15 @@ Network Anomaly Detection//Детектор Аномалий Трафика
 
 Необходимые библиотеки:
 numpy>=1.21.0
+
 pandas>=1.3.0
+
 scikit-learn>=1.0.0
+
 tensorflow>=2.10.0
+
 matplotlib>=3.5.0
+
 seaborn>=0.11.0
+
 joblib>=1.2.0
